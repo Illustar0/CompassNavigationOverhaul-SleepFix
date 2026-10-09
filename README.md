@@ -19,4 +19,4 @@ This patch is strictly matched to the following binary build:
 
 ## License
 
-Licensed under the **GPL-3.0-or-later**. See [`LICENSE`](https://www.google.com/search?q=LICENSE) for details.
+Licensed under the **GPL-3.0-or-later**. See [`LICENSE`](https://github.com/Illustar0/CompassNavigationOverhaul-SleepFix/blob/main/LICENSE) for details.
