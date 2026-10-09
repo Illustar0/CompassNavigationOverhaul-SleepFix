@@ -15,7 +15,8 @@ This patch is strictly matched to the following binary build:
 - **Expected SHA-256:** `4449723b381fa111fa8f21bfde4e899dce53001308f0cc1920c55033bf0f51ba`
 
 
-> **Safety Check:** If the target DLL cannot be located or the SHA-256 hash does not match, the patch will not take effect to prevent unexpected behavior.
+> [!NOTE]
+> If the target DLL cannot be located or the SHA-256 hash does not match, the patch will not take effect to prevent unexpected behavior.
 
 ## License
 
