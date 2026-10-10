@@ -6,6 +6,10 @@ Removes the unnecessary 6-second startup delay in alexsylex's **Compass Navigati
 
 In version 2.2.0 of Compass Navigation Overhaul, a redundant 6-second `sleep` call artificially delays Skyrim's startup sequence. This patch safely eliminates that wait to restore faster game load times.
 
+## Usage
+
+Just install it like any other SKSE plugin. If you'd like to check, `CompassNavigationOverhaul-SleepFix.log` will let you know whether it's working.
+
 ## Target & Compatibility
 
 This patch is strictly matched to the following binary build:
